@@ -53,7 +53,7 @@
 
 ---
 
-![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kholdarboev&theme=xcode)
+![Sardorbek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=earthpowerful&theme=xcode)
 
 ---
 <!--RECENT_ACTIVITY:last_update-->
@@ -73,7 +73,7 @@
 ![successratebadge]
 
 [![discordBadge]][Discord]
-[![README with recent activity](https://github.com/kholdarboev/kholdarboev/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/kholdarboev/kholdarboev/actions/workflows/update-readme.yml)
+[![README with recent activity](https://github.com/earthpowerful/earthpowerful/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/earthpowerful/earthpowerful/actions/workflows/update-readme.yml)
 ## :zap: Live Preview
 
 <!--START_SECTION:activity-->
@@ -92,25 +92,25 @@
     <summary>:zap:GitHub Stats </summary> 
   </details>   -->
 <p align="center">
- <img src="https://github-readme-stats-six-murex-58.vercel.app/api?username=kholdarboev&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="kholdarboev"/> 
+ <img src="https://github-readme-stats-six-murex-58.vercel.app/api?username=earthpowerful&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="earthpowerful"/> 
  </p>
 
- <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=kholdarboev&&theme=tokyonight" alt="kholdarboev" /></p>
+ <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=earthpowerful&&theme=tokyonight" alt="earthpowerful" /></p>
    <p align="center">
-<img   src="https://github-readme-stats.vercel.app/api/top-langs?username=kholdarboev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kholdarboev" />
+<img   src="https://github-readme-stats.vercel.app/api/top-langs?username=earthpowerful&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="earthpowerful" />
   <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/>
  </p>
  
   <details>
   <summary>:zap:My Stats</summary>
-  <img align="left" color="black" alt="kholdarboev's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
+  <img align="left" color="black" alt="earthpowerful's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
      <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
   </details>
   
 
-[website]: https://kholdarboev.netlify.app
+[website]: https://earthpowerful.netlify.app
 [instagram]: https://www.instagram.com/andijan_07/
-[linkedin]: https://linkedin.com/in/kholdarboev
+[linkedin]: https://linkedin.com/in/earthpowerful
 
 <!-- Links -->
 [forks]: https://github.com/Readme-Workflows/recent-activity/network/members
