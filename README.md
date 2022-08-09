@@ -73,13 +73,6 @@
 ![successratebadge]
 
 [![discordBadge]][Discord]
-[![README with recent activity](https://github.com/earthpowerful/earthpowerful/actions/workflows/update-readme.yml/badge.svg?branch=master)](https://github.com/earthpowerful/earthpowerful/actions/workflows/update-readme.yml)
-## :zap: Live Preview
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/m4mansur/pilgrimage/pull/2) in [m4mansur/pilgrimage](https://github.com/m4mansur/pilgrimage)
-2. 💪 Opened PR [#2](https://github.com/m4mansur/pilgrimage/pull/2) in [m4mansur/pilgrimage](https://github.com/m4mansur/pilgrimage)
- <!--END_SECTION:activity-->
 
 ---
 
