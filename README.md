@@ -89,12 +89,6 @@
 <img   src="https://github-readme-stats.vercel.app/api/top-langs?username=earthpowerful&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="earthpowerful" />
   <img [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)/>
  </p>
- 
-  <details>
-  <summary>:zap:My Stats</summary>
-  <img align="left" color="black" alt="earthpowerful's GitHub Stats" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" />
-     <img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
-  </details>
   
 
 [website]: https://earthpowerful.netlify.app
