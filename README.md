@@ -1,16 +1,3 @@
-### Hi there, I'm Jerry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-## React Front-end developer!! <img align="center" alt="react" width="85px" src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif"/>
-
-- 🌱 I’m currently learning React Native && Node.js && Next.js
-- 👨‍💻 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel, sky-diving, snowboarding, soccer
-- 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="410" height="300"/>
- 
- 
-
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
