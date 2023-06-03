@@ -1,9 +1,9 @@
-<h2 font-weight="bold"> Senior Blockchain Full Stack Developer </h2>
+<h2 font-weight="bold"> Senior Full Stack(Blockchain) Developer </h2>
 
 <p>A seasoned Full Stack (Blockchain) developer with a demonstrated history of successfully working in the information technology and services industry for 8 years. I am skilled in building SEO friendly, user-friendly, and responsive Web and Mobile app. Additionally, I am knowledgeable in Web3 integration with Ethereum and Binance, and launched various Blockchain platforms. Thanks to background in working with various companies, I am also comfortable with agile methodology and Devops. Providing a satisfactory result on time is my strength.</p>
 <p>I am proud of providing the great result to every client on time so far.</p>
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+<!-- <h3 font-weight="bold">Skill sets</h2> -->
 <table>
   <tr>
     <td>
