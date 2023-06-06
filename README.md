@@ -4,7 +4,7 @@
 <p>I am proud of providing the great result to every client on time so far.</p>
 
 <!-- <h3 font-weight="bold">Skill sets</h2> -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
@@ -141,5 +141,5 @@
     </td>
   
   </tr>
-</table>
+</table> -->
 <br/>
